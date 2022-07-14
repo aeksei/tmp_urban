@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- ФИО
+- https://colab.research.google.com/drive/1tB7JuoL3YVlNBQ1hnBxix3A6RFQpGzhi?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
